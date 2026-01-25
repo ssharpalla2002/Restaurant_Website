@@ -16,7 +16,7 @@ A Restaurant Website UI built with React, Next.js, and Tailwind CSS. The project
 
 ## Technologies
 
-```React.js``` ```Next.js``` ```CSS``` 
+```React.js``` ```Next.js``` ```Tailwind CSS``` 
 
 ---
 
