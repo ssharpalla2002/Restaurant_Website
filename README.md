@@ -21,7 +21,7 @@ A Restaurant Website UI built with React, Next.js, and Tailwind CSS. The project
 <br>
 
 <div align="center">
-  <h3>Reservation Page</h3>
+  <h3>Checkout Page</h3>
   <img src="images/restaurant3.png" alt="Reservation Page" style="max-width: 100%; height: auto;" />
 </div>
 
