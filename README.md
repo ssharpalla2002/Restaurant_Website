@@ -41,7 +41,6 @@ A Restaurant Website UI built with React, Next.js, and Tailwind CSS. The project
 - Category and product pages with filtering and responsive grid layouts  
 - Single product pages with details, options, quantity selectors, and price calculation  
 - Interactive cart and orders pages  
-- Login page for user authentication  
 - Responsive footer with links and social icons  
 - State management with React hooks for sliders, cart, and product options  
 
